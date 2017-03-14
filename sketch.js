@@ -30,5 +30,5 @@ function setup() {
     }
   }
   
-  saveCanvas(viz, 'viz', 'png');
+//   saveCanvas(viz, 'viz', 'png');
 }
